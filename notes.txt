@@ -1,1 +1,2 @@
 notes for hw7
+- squash keeps main clean
